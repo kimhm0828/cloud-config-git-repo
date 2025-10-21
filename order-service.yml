@@ -3,5 +3,5 @@ spring:
     url: jdbc:mysql://localhost:3306/msa_step02_order?useSSL=false&serverTimezone=UTC&allowPublicKeyRetrieval=true
 
 custom:
-  message: "초기 메시지 - PROD 환경"
-  version: "1.0.0"
+  message: "테스트용 마이너 업데이트"
+  version: "1.0.1"
